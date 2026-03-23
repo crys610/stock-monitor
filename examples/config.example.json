@@ -1,0 +1,19 @@
+{
+  "stocks": [
+    {
+      "market": "A股",
+      "code": "600111",
+      "name": "北方稀土",
+      "alert_prices": {
+        "up": 50.0,
+        "down": 40.0
+      }
+    }
+  ],
+  "channels": ["feishu"],
+  "targets": {
+    "feishu": "oc_your_chat_id",
+    "feishu_user": "ou_your_user_id"
+  },
+  "price_change_threshold": 1.0
+}
