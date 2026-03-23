@@ -125,4 +125,4 @@ openclaw skill install stock-monitor.skill
 
 ## License
 
-MIT License
+Apache 2.0 License
